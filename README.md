@@ -1,6 +1,4 @@
-• [![MATLAB](https://github.com/vivihengww/ci-configuration-examples/actions/workflows/
-ci.yml/badge.svg)](https://github.com/vivihengww/ci-configuration-examples/actions/
-workflows/ci.yml)
+• [![MATLAB](https://github.com/vivihengww/ci-configuration-examples/actions/workflows/ci.yml/badge.svg)](https://github.com/vivihengww/ci-configuration-examples/actions/workflows/ci.yml)
 
 
 
